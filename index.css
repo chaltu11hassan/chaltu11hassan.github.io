@@ -1,14 +1,15 @@
 #about{
     border: solid white;
+    /* border-left: 5px solid rgb(255, 196, 166); */
 }
 
 #about-photo{
-   border: solid white;;
+   border: solid white;
    border-radius: 3px;
 }
 
 #contact{
-    border: solid white;;
+    border:  solid white;
 }
 
 #buttons-span{
@@ -22,7 +23,11 @@
 }
 
 .w3-sidebar{
-    background-color: rgb(254, 226, 208);
+    /* border-right: solid black; */
+    background-color: rgb(251, 223, 198); 
+    /* rgb(241, 223, 248);  */
+     /* rgb(228, 204, 226); */
+    /* rgb(233, 209, 193); */
     /* background-color: darkslategray; */
 }
 
