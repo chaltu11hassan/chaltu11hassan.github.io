@@ -1,0 +1,26 @@
+#about{
+    border: solid white;
+}
+
+#about-photo{
+   border: solid white;;
+   border-radius: 3px;
+}
+
+#contact{
+    border: solid white;;
+}
+
+#buttons-span{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.w3-button{
+    border: solid 1px white;;
+    border-radius: 3px;
+}
+
+.w3-sidebar{
+    background-color: rgb(254, 226, 208);
+}
